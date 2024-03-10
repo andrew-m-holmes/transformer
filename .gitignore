@@ -1,0 +1,8 @@
+__pycache__/
+singular/
+.data/
+saves/
+*env*/
+*.DS_Store
+workbench.py
+tutorial.ipynb
