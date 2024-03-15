@@ -1,7 +1,7 @@
 # Transformer
 
 <p align="center">
-  <img src="https://github.com/Andrew011002/Transformer/blob/master/architecture.jpg" alt="Transformer Architecture">
+  <img src="https://github.com/andrew-m-holmes/transformer/blob/main/architecture.jpg" alt="Transformer Architecture">
 </p>
 
 ---
