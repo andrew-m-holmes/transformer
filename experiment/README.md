@@ -1,7 +1,7 @@
 # Experiment
 
 <p align="center">
-  <img src="https://github.com/Andrew011002/Transformer/blob/master/experiment/metrics.jpg" alt="Metrics Graph" width=648 height=432>
+  <img src="https://github.com/andrew-m-holmes/transformer/blob/main/experiment/metrics.jpg" alt="Metrics Graph" width=648 height=432>
 </p>
 
 ---
