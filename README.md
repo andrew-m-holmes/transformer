@@ -43,7 +43,7 @@ To use this repository, ensure that your system meets the following requirements
 2. Clone the repository using the following command:
    
     ```
-    git clone https://github.com/Andrew011002/Transformer
+    git clone https://github.com/andrew-m-holmes/Transformer
     ```
 
 ---
@@ -70,7 +70,7 @@ To install the required dependencies for running python files and jupyter notebo
 
 ## Running
 
-To train, retrain, or prompt a model, use the [main.py](https://github.com/Andrew011002/Transformer/blob/master/main.py) script. This script allows you to pass command line arguments through the `argaprse` library which alters the execution of the program. Different arguments can change what parts of the program is executed as well as alter some values passed to parameters in functions (e.g. changing the path to datasets).   
+To train, retrain, or prompt a model, use the [main.py](https://github.com/andrew-m-holmes/Transformer/blob/master/main.py) script. This script allows you to pass command line arguments through the `argaprse` library which alters the execution of the program. Different arguments can change what parts of the program is executed as well as alter some values passed to parameters in functions (e.g. changing the path to datasets).   
 
 **Important**: _If you're not using GNU Make to run main.py, the virtual environment with the required dependencies (installed) must be active! You can activate the environment by running: `source path/to/venv/bin/activate`. Follow the [official virtual environment guide](https://docs.python.org/3/library/venv.html) for more information._
 
@@ -106,11 +106,11 @@ To train, retrain, or prompt a model, use the [main.py](https://github.com/Andre
 
 Outlined in the description section, this repository contains three Jupyter notebooks for training, testing, and prompting:
 
-- **en-de-train**: This notebook demonstrates the step by step process of creating a pipeline for training a `Transformer` for English to German language translation. Take a look at the notebook here: [en-de-train.ipynb](https://github.com/Andrew011002/Transformer/blob/master/en-de-train.ipynb).
+- **en-de-train**: This notebook demonstrates the step by step process of creating a pipeline for training a `Transformer` for English to German language translation. Take a look at the notebook here: [en-de-train.ipynb](https://github.com/andrew-m-holmes/Transformer/blob/master/en-de-train.ipynb).
 
-- **en-de-retrain**: This notebook shows the pipeline process to retrain a `Transformer` model from a `Checkpoint` for the same task. Start with retraining here: [en-de-retrain.ipynb](https://github.com/Andrew011002/Transformer/blob/master/en-de-retrain.ipynb).
+- **en-de-retrain**: This notebook shows the pipeline process to retrain a `Transformer` model from a `Checkpoint` for the same task. Start with retraining here: [en-de-retrain.ipynb](https://github.com/andrew-m-holmes/Transformer/blob/master/en-de-retrain.ipynb).
 
-- **en-de-prompt**: This notebook shows the pipeline process of loading a `Transformer` model from model weights and prompting it for English to German language translation. Learn how to prompt here: [en-de-prompt.ipynb](https://github.com/Andrew011002/Transformer/blob/master/en-de-prompt.ipynb).
+- **en-de-prompt**: This notebook shows the pipeline process of loading a `Transformer` model from model weights and prompting it for English to German language translation. Learn how to prompt here: [en-de-prompt.ipynb](https://github.com/andrew-m-holmes/Transformer/blob/master/en-de-prompt.ipynb).
 
 > **Note**: Its highly recommended you start with the notebooks to understand how the tools and modules work within this repository. From there, they're useful guidelines for building other notebooks or python files for your own language translation tasks. 
 
@@ -118,11 +118,11 @@ Outlined in the description section, this repository contains three Jupyter note
 
 ## Contributing
 
-- **Issues**: Issues are great way of to keep track of different topics within this repository. Open issues when you want to keep documentation on code ehancements, bugs, or other topics relevant to this repository. Refer to the [Issues page](https://github.com/Andrew011002/Transformer/issues) to get started.
+- **Issues**: Issues are great way of to keep track of different topics within this repository. Open issues when you want to keep documentation on code ehancements, bugs, or other topics relevant to this repository. Refer to the [Issues page](https://github.com/andrew-m-holmes/Transformer/issues) to get started.
   
-- **Pull Request**: Please use the pull request feature to implement your own code that can improve different parts of this repository. Pull request can be as simple as a bug fix or as complex as refactoring this repository. When applicable, make sure to link pull requests to related open issues and I'll make sure to review it for merging. Go to the [Pull request page](https://github.com/Andrew011002/Transformer/pulls) to begin.
+- **Pull Request**: Please use the pull request feature to implement your own code that can improve different parts of this repository. Pull request can be as simple as a bug fix or as complex as refactoring this repository. When applicable, make sure to link pull requests to related open issues and I'll make sure to review it for merging. Go to the [Pull request page](https://github.com/andrew-m-holmes/Transformer/pulls) to begin.
   
-- **Discussions**: GitHub discussions are a great place to discuss different topics, questions, or ideas for this repository without opening issues or pull requests. Post in the discussions section and I'll make sure to respond in a timely manner. Visit the [Discussions page](https://github.com/Andrew011002/Transformer/discussions/1) to start commenting.
+- **Discussions**: GitHub discussions are a great place to discuss different topics, questions, or ideas for this repository without opening issues or pull requests. Post in the discussions section and I'll make sure to respond in a timely manner. Visit the [Discussions page](https://github.com/andrew-m-holmes/Transformer/discussions/1) to start commenting.
 
 _I would like to thank you in advance for any contributions made!_
 
