@@ -122,8 +122,6 @@ Outlined in the description section, this repository contains three Jupyter note
   
 - **Pull Request**: Please use the pull request feature to implement your own code that can improve different parts of this repository. Pull request can be as simple as a bug fix or as complex as refactoring this repository. When applicable, make sure to link pull requests to related open issues and I'll make sure to review it for merging. Go to the [Pull request page](https://github.com/andrew-m-holmes/Transformer/pulls) to begin.
   
-- **Discussions**: GitHub discussions are a great place to discuss different topics, questions, or ideas for this repository without opening issues or pull requests. Post in the discussions section and I'll make sure to respond in a timely manner. Visit the [Discussions page](https://github.com/andrew-m-holmes/Transformer/discussions/1) to start commenting.
-
 _I would like to thank you in advance for any contributions made!_
 
 ---
