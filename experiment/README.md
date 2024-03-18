@@ -20,7 +20,7 @@ This guide will cover:
   
 - Prompting a `Transformer` model from model weights.
   
-> __Note__: _If you haven't already, please make sure you view the outline of this repository on the [homepage](https://github.com/Andrew011002/Transformer/) for general information._
+> __Note__: _If you haven't already, please make sure you view the outline of this repository on the [homepage](https://github.com/andrew-m-holmes/Transformer/) for general information._
 
 ---
 
@@ -265,6 +265,6 @@ Total time in seconds for Quantized Transformer (On CPU): 1.83 s
 
 ## Conclusion
 
-Congratulations! You've successfully completed all the tutorials that help you utilize this experiment. Like before, please contribute using [_Issues_](https://github.com/Andrew011002/Transformer/issues), [_Pull Requests_](https://github.com/Andrew011002/Transformer/pulls), or the [_Discussions_](https://github.com/Andrew011002/Transformer/discussions/1) section. Also, please reach out to me on [LinkedIn](https://www.linkedin.com/in/andrewmicholmes/) and check out any articles I have on [Medium](https://medium.com/@andmholm).
+Congratulations! You've successfully completed all the tutorials that help you utilize this experiment. Like before, please contribute using [_Issues_](https://github.com/andrew-m-holmes/Transformer/issues), [_Pull Requests_](https://github.com/andrew-m-holmes/Transformer/pulls), or the [_Discussions_](https://github.com/andrew-m-holmes/Transformer/discussions/1) section. Also, please reach out to me on [LinkedIn](https://www.linkedin.com/in/andrewmicholmes/) and check out any articles I have on [Medium](https://medium.com/@andmholm).
 
 Thank you!
