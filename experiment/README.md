@@ -265,6 +265,6 @@ Total time in seconds for Quantized Transformer (On CPU): 1.83 s
 
 ## Conclusion
 
-Congratulations! You've successfully completed all the tutorials that help you utilize this experiment. Like before, please contribute using [_Issues_](https://github.com/andrew-m-holmes/Transformer/issues), [_Pull Requests_](https://github.com/andrew-m-holmes/Transformer/pulls), or the [_Discussions_](https://github.com/andrew-m-holmes/Transformer/discussions/1) section. Also, please reach out to me on [LinkedIn](https://www.linkedin.com/in/andrewmicholmes/) and check out any articles I have on [Medium](https://medium.com/@andmholm).
+Congratulations! You've successfully completed all the tutorials that help you utilize this experiment. Like before, please contribute using [_Issues_](https://github.com/andrew-m-holmes/Transformer/issues) or [_Pull Requests_](https://github.com/andrew-m-holmes/Transformer/pulls). Also, please reach out to me on [LinkedIn](https://www.linkedin.com/in/andrewmicholmes/) and check out any articles I have on [Medium](https://medium.com/@andmholm).
 
 Thank you!
